@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset (very important)
+dataset_retino/
+
+# Model files
+*.h5
+*.pt
+*.pth
+
+# Logs
+logs/
+
+# Keras models
+*.keras
